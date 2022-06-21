@@ -1,7 +1,7 @@
 [<p align="center"><img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/LOGO-FINAL-V2.svg" alt="Microlead" width="300" /></p>](https://microlead.fr/)
 
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture Web.png" alt="template 3" width="300" /><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture%20Web.png" alt="template 3" width="300" /></p>
+<p align="center"><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture Web.png" alt="template 3" width="300" /><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture Mobile.png" alt="template 3" width="300" /></p>
 
 
 
