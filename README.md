@@ -28,7 +28,7 @@ Les propositions d'amélioration sont les bienvenues, venez en discuter avec nou
 
 ## Copyright & License
 
-Maquette produite par Naitcréative Https://Naitcreative.com//
+Maquette produite par Naitcréative Https://Naitcreative.com// </br>
 Copyright © 2020-2022 Microlead. Tous droits réservés
 
 ## Suivre
