@@ -3,7 +3,7 @@
 
 
 
-# Furniture
+# Intégration statique Furniture
 
 Ce repository contient le starter kit du projet Slider de comparaison Javascript disponible sur [Microlead.fr](https://microlead.fr)
 
@@ -14,9 +14,9 @@ Ce repository contient le starter kit du projet Slider de comparaison Javascript
 - [Javascript niveau 8](https://microlead.fr/echelles/javascript)
 
 ## Importation dans figma
-prenez le fichier SVG, glissez déposer sur dans le figma pour avoir acces à la maquette.
+Prenez le fichier SVG, glissez/déposez sur dans le figma pour avoir acces à la maquette.
 
-## previsualisation de la maquette
+## Previsualisation de la maquette
 
 <p align="center"><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture Web.png" alt="template 3" width="300" /></p>
 
