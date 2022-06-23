@@ -5,7 +5,7 @@
 
 # Intégration statique Furniture
 
-Ce repository contient le starter kit du projet Slider de comparaison Javascript disponible sur [Microlead.fr](https://microlead.fr)
+Ce repository contient le starter kit du projet intégration statique Furniture disponible sur [Microlead.fr](https://microlead.fr)
 
 ## Prérequis
 
