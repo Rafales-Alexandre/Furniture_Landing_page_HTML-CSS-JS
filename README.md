@@ -14,7 +14,7 @@ Ce repository contient le starter kit du projet intégration statique Furniture 
 - [Javascript niveau 8](https://microlead.fr/echelles/javascript)
 
 ## Importation dans figma
-Prenez le fichier SVG, glissez/déposez sur dans le figma pour avoir acces à la maquette.
+Prenez les deux fichiers SVG dans le dossier Figma puis glissez/déposez dans votre navigateur en étant connecté sur figma pour avoir acces à la maquette.
 
 ## Previsualisation de la maquette
 
