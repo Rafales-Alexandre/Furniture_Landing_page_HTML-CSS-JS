@@ -18,7 +18,7 @@ Prenez les deux fichiers SVG dans le dossier Figma puis glissez/déposez dans vo
 
 ## Previsualisation de la maquette
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture Web.png" alt="template 3" width="300" /></p>
+<p align="center"><img src="https://github.com/Rafales-Alexandre/Integration_statique-Furniture/blob/main/img/Template/Furniture Web.png" alt="template 3" width="300" /></p>
 
 ## Bug & améliorations
 
