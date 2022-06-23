@@ -1,13 +1,9 @@
 [<p align="center"><img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/LOGO-FINAL-V2.svg" alt="Microlead" width="300" /></p>](https://microlead.fr/)
 
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture Web.png" alt="template 3" width="300" /></p>
-<p align="center"><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture Mobile.png" alt="template 3" width="300" /></p>
 
 
-
-
-# Slider de comparaison Javascript
+# Furniture
 
 Ce repository contient le starter kit du projet Slider de comparaison Javascript disponible sur [Microlead.fr](https://microlead.fr)
 
@@ -16,6 +12,14 @@ Ce repository contient le starter kit du projet Slider de comparaison Javascript
 - [HTML niveau 9](https://microlead.fr/echelles/html)
 - [CSS niveau 9](https://microlead.fr/echelles/css)
 - [Javascript niveau 8](https://microlead.fr/echelles/javascript)
+
+## Importation dans figma
+prenez le fichier SVG, glissez déposer sur dans le figma pour avoir acces à la maquette.
+
+## previsualisation de la maquette
+
+<p align="center"><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture Web.png" alt="template 3" width="300" /></p>
+<p align="center"><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture Mobile.png" alt="template 3" width="300" /></p>
 
 ## Bug & améliorations
 
