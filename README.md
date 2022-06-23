@@ -19,7 +19,6 @@ prenez le fichier SVG, glissez déposer sur dans le figma pour avoir acces à la
 ## previsualisation de la maquette
 
 <p align="center"><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture Web.png" alt="template 3" width="300" /></p>
-<p align="center"><img src="https://github.com/Rafales-Alexandre/Furniture_Landing_page_HTML-CSS-JS/blob/main/img/Template/Furniture Mobile.png" alt="template 3" width="300" /></p>
 
 ## Bug & améliorations
 
